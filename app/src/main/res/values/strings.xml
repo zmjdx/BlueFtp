@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlueFtp</string>
+    <string name="querying_filesys">Querying file system...</string>
+    <string-array name="goto_locations">
+    <item>Loading&#8230;</item>
+    <item>Device List</item>
+    </string-array>
+
+</resources>
